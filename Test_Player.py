@@ -18,7 +18,7 @@ WHITE_PLAYER = 1
 
 STRATEGY_V1 = 'Evaluate_Cost'     # Typical Approach
 STRATEGY_V2 = 'Evaluate_Cost_r1'  # Add Stability and Game Phase
-SELECTED = STRATEGY_V2
+SELECTED = STRATEGY_V1
 
 class Cost_Estimate:
 
